@@ -6,9 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=JavaScript+Developer;Python+Enthusiast;Full-Stack+Builder;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=58a6ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=flat-square&color=58a6ff&label=Followers)](https://github.com/YOUR-GITHUB-USERNAME)
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?style=flat-square&color=yellow&label=Stars)](https://github.com/YOUR-GITHUB-USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=johntysondev&color=58a6ff&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/johntysondev?style=flat-square&color=58a6ff&label=Followers)](https://github.com/johntysondev)
+[![GitHub Stars](https://img.shields.io/github/stars/johntysondev?style=flat-square&color=yellow&label=Stars)](https://github.com/johntysondev)
 
 ---
 
